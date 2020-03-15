@@ -55,7 +55,7 @@ repositories {
 
 dependencies {
     implementation "com.facebook.react:react-native:${safeExtGet('reactnativeVersion', '+')}"
-    implementation ('com.pushpole.android:pushsdk:1.7.0')
+    implementation ('com.pushpole.android:pushsdk:1.7.1')
 }
 
 def configureReactNativePom(def pom) {

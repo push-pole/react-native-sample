@@ -1,8 +1,8 @@
 {
   "name": "pushpole-react-native",
   "title": "PushPole React Native",
-  "version": "1.7.0",
-  "native_sdk_version": "1.7.0",
+  "version": "1.7.1",
+  "native_sdk_version": "1.7.1",
   "description": "Push-Pole.com's official resact native module based on push-pole.com native sdk",
   "main": "index.js",
   "scripts": {
